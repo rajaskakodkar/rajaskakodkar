@@ -1,8 +1,8 @@
-<a href="https://feisky.xyz/about">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=feiskyer&show_icons=true" />
+<a href="https://rajaskakodkar.github.io/blog/about/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rajaskakodkar&show_icons=true" />
 </a>
-<a href="https://feisky.xyz/about">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feiskyer&hide=html,ruby" />
+<a href="https://rajaskakodkar.github.io/blog/about/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaskakodkar&hide=html,ruby,jupyter%20notebook,SCSS,smarty,dockerfile,javascript" />
 </a>
 
 <!--
